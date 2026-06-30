@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.0.7",
-  "installer_url": "https://github.com/vpower55/electra-benchmark-update/releases/download/v1.0.7/Electra_Benchmark_Rapor_Setup.exe",
-  "notes": "Installer, guncelleme sirasinda eski calisan uygulamayi otomatik kapatir."
+  "version": "1.0.9",
+  "installer_url": "https://github.com/vpower55/electra-benchmark-update/releases/download/v1.0.9/Electra_Benchmark_Rapor_Setup.exe",
+  "notes": "v1.0.9 test guncellemesi."
 }
